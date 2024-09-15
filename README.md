@@ -86,7 +86,7 @@ public class iPhone implements ReprodutorMusical, AparelhoTelefonico, NavegadorI
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/AlexandreLiberatto/Desafio-Iphone-Dio.git)
+   git clone https://github.com/AlexandreLiberatto/Desafio-Iphone-Dio.git
    ```
 
 2. Importe o projeto no Eclipse ou em sua IDE Java preferida.
